@@ -24,8 +24,7 @@ public class PraticeTest1 {
 	@Test
 	public void test2() {
 		
-		System.out.println("hiiialllll");
-		System.out.println("hiiialllll");
+		
 	}
 	
 	@Test
