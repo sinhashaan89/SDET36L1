@@ -24,7 +24,7 @@ public class PraticeTest1 {
 	@Test
 	public void test2() {
 		
-		System.out.println("test2 --> PraticeTest1");
+		System.out.println("hiiiiiiii");
 	}
 	
 	@Test
