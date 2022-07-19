@@ -15,6 +15,10 @@ public class PraticeTest2 {
 	public void test2() {
 		
 		System.out.println("test2 --> PraticeTest2");
+		System.out.println("test2 --> PraticeTest2");
+		System.out.println("test2 --> PraticeTest2");
+		System.out.println("test2 --> PraticeTest2");
+		System.out.println("test2 --> PraticeTest2");
 	}
 	
 	@Test
