@@ -27,11 +27,7 @@ public class PraticeTest1 {
 		
 	}
 	
-	@Test
-	public void test3() {
-		
-		System.out.println("test3 --> PraticeTest1");
-	}
+	
 	
 
 }
